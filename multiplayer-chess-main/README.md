@@ -16,7 +16,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/krish3957/multiplayer-chess.git
+   git clone https://github.com/jeetpatel1/multiplayer-chess-.git
    ```bash
 
 2. **Navigate to the project directory:**
